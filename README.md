@@ -6,12 +6,12 @@ AutoReconX
    nano README.md
    ```
 
-2. **Delete all old content** (press `Ctrl + K` repeatedly until empty).
+2. Delete all old content (press `Ctrl + K` repeatedly until empty).
 
 3. Paste the entire content below.
 
 4. Save & Exit:  
-   `Ctrl + O` → Press **Enter** → `Ctrl + X`
+   `Ctrl + O` → Press nter → `Ctrl + X`
 
 ---
 
@@ -22,30 +22,30 @@ AutoReconX
 ![Kali Linux](https://img.shields.io/badge/Platform-Kali%20Linux-brightgreen.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-A lightweight, fast, and user-friendly reconnaissance tool developed for **educational and learning purposes** on Kali Linux.
+A lightweight, fast, and user-friendly reconnaissance tool developed for "educational and learning purposes" on Kali Linux.
 
 ---
 
-## ⚠️ Important Disclaimer
+## Important Disclaimer
 
-**This tool is intended for educational purposes only.**
+This tool is intended for educational purposes only.
 
-- Use this tool **only on domains you own** or have **explicit written permission** to test.
+- Use this tool "only on domains you own" or have "explicit written permission" to test.
 - Unauthorized scanning or reconnaissance against systems you do not own may violate laws and terms of service.
-- The author is **not responsible** for any misuse or damage caused by this tool.
-- Any illegal activity performed using this tool is the **sole responsibility of the user**.
+- The author is "not responsible" for any misuse or damage caused by this tool.
+- Any illegal activity performed using this tool is the "sole responsibility of the user".
 
-> **"With great power comes great responsibility."**
-
----
-
-## 📌 Description
-
-**AutoReconX** is a simple yet effective Python-based reconnaissance tool that performs basic information gathering on a target domain. It is designed to help students, beginners, and security enthusiasts learn the fundamentals of reconnaissance in ethical hacking and bug bounty hunting.
+> "With great power comes great responsibility."
 
 ---
 
-## ✨ Features
+##  Description
+
+"AutoReconX" is a simple yet effective Python-based reconnaissance tool that performs basic information gathering on a target domain. It is designed to help students, beginners, and security enthusiasts learn the fundamentals of reconnaissance in ethical hacking and bug bounty hunting.
+
+---
+
+##  Features
 
 - DNS resolution
 - HTTP & HTTPS connectivity check
@@ -64,7 +64,7 @@ A lightweight, fast, and user-friendly reconnaissance tool developed for **educa
 
 ---
 
-## 📥 Installation
+##  Installation
 
 1. Clone the repository:
    ```bash
@@ -85,7 +85,7 @@ A lightweight, fast, and user-friendly reconnaissance tool developed for **educa
 
 ---
 
-## 🚀 Usage
+## Usage
 
 ### Basic Command:
 ```bash
@@ -97,11 +97,11 @@ python3 autoreconx.py -t example.com
 python3 autoreconx.py -t testphp.vulnweb.com
 ```
 
-**Note**: Replace `example.com` with your authorized target.
+Note: Replace `example.com` with your authorized target.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 AutoReconX/
@@ -114,7 +114,7 @@ AutoReconX/
 
 ---
 
-## 📸 Sample Output
+##  Sample Output
 
 ```
 ========================================
@@ -135,7 +135,7 @@ Started: 2026-05-17 13:05:22
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Subdomain enumeration
 - Port scanning with Nmap
@@ -146,26 +146,26 @@ Started: 2026-05-17 13:05:22
 
 ---
 
-## 📝 License
+##  License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 👤 Author
+##  Author
 
-**Abu Zaber **
+"Abu Zaber"
 
 - Kali Linux & Cybersecurity Enthusiast
 - Learning Ethical Hacking & Bug Bounty Hunting
 
 ---
 
-**⭐ If you find this tool helpful for learning, please give it a star on GitHub!**
+ If you find this tool helpful for learning, please give it a star on GitHub!
 
 ---
 
-**Made for learning purposes with ❤️**
+Made for learning purposes with 
 
 ```
 

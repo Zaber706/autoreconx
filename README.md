@@ -13,8 +13,6 @@ AutoReconX
 4. Save & Exit:  
    `Ctrl + O` → Press nter → `Ctrl + X`
 
----
-
 ```markdown
 # AutoReconX - Kali Edition
 
@@ -26,7 +24,7 @@ A lightweight, fast, and user-friendly reconnaissance tool developed for "educat
 
 ---
 
-## Important Disclaimer
+Important Disclaimer
 
 This tool is intended for educational purposes only.
 
@@ -37,15 +35,11 @@ This tool is intended for educational purposes only.
 
 > "With great power comes great responsibility."
 
----
-
-##  Description
+ Description
 
 "AutoReconX" is a simple yet effective Python-based reconnaissance tool that performs basic information gathering on a target domain. It is designed to help students, beginners, and security enthusiasts learn the fundamentals of reconnaissance in ethical hacking and bug bounty hunting.
 
----
-
-##  Features
+Features
 
 - DNS resolution
 - HTTP & HTTPS connectivity check
@@ -54,23 +48,18 @@ This tool is intended for educational purposes only.
 - Clean, colored terminal output using Rich & Colorama
 - Organized report saving system
 
----
-
-## 🛠 Requirements
+ Requirements
 
 - Kali Linux (Recommended)
 - Python 3.10+
 - Internet Connection
 
----
-
-##  Installation
+  Installation
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/AutoReconX.git
    cd AutoReconX
-   ```
 
 2. Create a virtual environment:
    ```bash
@@ -83,25 +72,21 @@ This tool is intended for educational purposes only.
    pip install requests colorama rich
    ```
 
----
+ Usage
 
-## Usage
-
-### Basic Command:
+ Basic Command:
 ```bash
 python3 autoreconx.py -t example.com
 ```
 
-### Example:
+Example:
 ```bash
 python3 autoreconx.py -t testphp.vulnweb.com
 ```
 
 Note: Replace `example.com` with your authorized target.
 
----
-
-##  Project Structure
+ Project Structure
 
 ```
 AutoReconX/
@@ -114,7 +99,7 @@ AutoReconX/
 
 ---
 
-##  Sample Output
+Sample Output
 
 ```
 ========================================
@@ -135,7 +120,7 @@ Started: 2026-05-17 13:05:22
 
 ---
 
-## Future Improvements
+ Future Improvements
 
 - Subdomain enumeration
 - Port scanning with Nmap
@@ -144,34 +129,26 @@ Started: 2026-05-17 13:05:22
 - JSON + HTML report support
 - Interactive mode
 
----
 
-##  License
+ License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
----
 
-##  Author
+ Author
 
 "Abu Zaber"
 
 - Kali Linux & Cybersecurity Enthusiast
 - Learning Ethical Hacking & Bug Bounty Hunting
 
----
 
  If you find this tool helpful for learning, please give it a star on GitHub!
 
----
 
 Made for learning purposes with 
 
-```
-
----
-
-### Final Step:
+ Final Step:
 
 After saving the file, check it with:
 ```bash
